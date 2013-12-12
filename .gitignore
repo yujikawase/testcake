@@ -1,0 +1,23 @@
+# TBM
+.svn
+
+/cake/*/vendors/smarty/smarty/documentation/*
+/cake/*/vendors/smarty/smarty/development/*
+/cake/*/app/Config/database.php
+/cake/*/app/Config/tbm.url.rewriter.php
+/cake/*/app/tmp
+/cake/*/lib/Cake/Console/Templates/skel/tmp/
+
+/etc/*
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
